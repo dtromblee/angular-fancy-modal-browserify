@@ -1,0 +1,1 @@
+module.exports = require('../angular-fancy-modal/dist/angular-fancy-modal'); // Presupposes node_module structure

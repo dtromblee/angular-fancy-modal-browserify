@@ -1,0 +1,19 @@
+{
+  "name": "angular-fancy-modal-browserify",
+  "version": "1.0.0",
+  "description": "Shim to correctly require angular-fancy-modal (which doesn't include a main attribute) for browserify",
+  "main": "angular-fancy-modal-browserify.js",
+  "homepage": "https://github.com/dtromblee/angular-fancy-modal-browserify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtromblee/angular-fancy-modal-browserify.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "dtromblee",
+  "license": "ISC"
+}
